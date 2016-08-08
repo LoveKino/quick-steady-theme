@@ -82,6 +82,8 @@ select:focus {
 /*button*/
 
 .black-button {
+    min-width: 40px;
+    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
     line-height: 20px;
