@@ -29,6 +29,7 @@ ul li {
 }
 
 input[type="text"]:focus,
+input[type="password"]:focus,
 textarea:focus,
 select:focus {
     outline: none;
@@ -36,6 +37,7 @@ select:focus {
     border-bottom: 2px solid #3b3a36;
 }
 input[type="text"],
+input[type="password"],
 textarea,
 select {
     box-sizing: border-box;
